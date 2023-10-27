@@ -135,5 +135,5 @@ console.log("The elements after deletion from between are: ");
 list.deleteBetween(2);
 list.display();
 list.rev();
-console.log("The elements after reversing are: ");
+console.log("The elements after reversing are in the following manner: ");
 list.display();
